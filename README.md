@@ -98,8 +98,8 @@ Realtime Database: Send live notifications when new notes are added.
 Authentication: Manage login/logout.
 Jetpack Compose: Build reactive and modern UI.
 
-## Download APYou can directly download and try the app here:
-Download APK
+## Download APK
+You can directly download and try the app here:
 https://github.com/abhichiku18/ThoughtPad/blob/master/app-release.apk
 
 
