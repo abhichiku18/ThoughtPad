@@ -84,7 +84,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/abhichiku18/ThoughtPad
+git clone https://github.com/abhichiku18/ThoughtPad.git
 cd thoughtpad
 Open in Android Studio
 Connect your Firebase project:
